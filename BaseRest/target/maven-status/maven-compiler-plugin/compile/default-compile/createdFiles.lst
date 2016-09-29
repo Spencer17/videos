@@ -1,0 +1,11 @@
+mx/com/base/service/CalendarService.class
+mx/com/base/service/LoginService.class
+mx/com/base/controller/VideoController.class
+mx/com/base/dao/VideoDAO.class
+mx/com/base/bean/CalendarDTO.class
+mx/com/base/service/VideoService.class
+mx/com/base/controller/EventosController.class
+mx/com/base/controller/Greeting.class
+mx/com/base/bean/Usuario.class
+mx/com/base/dao/LoginDAO.class
+mx/com/base/bean/Video.class
